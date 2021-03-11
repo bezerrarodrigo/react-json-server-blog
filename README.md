@@ -14,3 +14,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 # json-server start
 Run json-server script to start the fake api server.
 
+# Features
+useEffect Hook
+Custom Fetch Hook
+
+
